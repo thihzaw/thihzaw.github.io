@@ -1,0 +1,14 @@
+<span id="a">root@thihzaw</span>:<span id="b">~</span><span id="c">#</span>cd /About_Me
+<span id="a">root@thihzaw</span>:<span id="b">~</span><span id="c">#</span>gcc thihzaw.c -o thihzaw
+<span id="a">root@thihzaw</span>:<span id="b">~</span><span id="c">#</span>./thihzaw<br/><br/>
+
+My favorite code quote, "<span id="k">Talk is cheap. Show me the code.</span>".
+
+Hello all welcome.<p>My name is Thi Ha Zaw alias thihzaw , T@yfuN </p>
+<p>Linux Enthusiast , Linux Sytem Admin , Noob Coder , Code Monkey </p>
+<p> Work as System Administrator</p>
+<p>Goals:<br><br><br> wanna Contribute more open source project <br> wanna become community member and contributor of one linux distro </p>
+
+Contact me: <a href="mailto:thiha2000720qwer@gmail.com" target="_blank">Mail</a>
+
+<p>Thank! </p>
